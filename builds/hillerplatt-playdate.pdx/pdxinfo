@@ -1,0 +1,10 @@
+name=Hiller Platt
+author=Hiller Platt
+description=Wi küet Hiller Platt
+bundleID=de.hillerplatt
+version=0.1
+buildNumber=2
+imagePath=images/
+launchSoundPath=audio/launchSound
+pdxversion=20000
+buildtime=750864214
